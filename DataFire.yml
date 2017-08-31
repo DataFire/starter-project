@@ -1,0 +1,9 @@
+paths:
+  /hello_world:
+    get:
+      action: ./hello_world.js
+  /gifs:
+    get:
+      action: reddit_rss/subreddit
+      input:
+        subreddit: gifs
