@@ -1,3 +1,3 @@
-# DataFire Starter Project
+# DataFire Sample Project
 
-This is a starter project for [DataFire](https://github.com/DataFire/DataFire)
+This is a sample project for [DataFire](https://github.com/DataFire/DataFire)
