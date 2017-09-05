@@ -2,11 +2,11 @@
 
 This is a sample project for [DataFire](https://github.com/DataFire/DataFire)
 
-There are two paths defined here:
+There are two paths defined in this project:
 
 #### /hello_world
 
-Returns a greeting. E.g. `GET /hello_world?name=Lucy` will return `"Hello, Lucy"`.
+Returns a greeting. E.g. `GET /hello_world?name=Lucy` will return `"Hello, Lucy"`. This is driven by the `hello_world` action.
 
 #### /gifs
 
