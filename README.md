@@ -6,7 +6,9 @@ There are two paths defined in this project:
 
 #### /hello_world
 
-Returns a greeting. E.g. `GET /hello_world?name=Lucy` will return `"Hello, Lucy"`. This is driven by the `hello_world` action.
+Returns a greeting. For example, `GET /hello_world?name=Lucy` will return `"Hello, Lucy"`.
+
+This is driven by the `hello_world` action.
 
 #### /gifs
 
